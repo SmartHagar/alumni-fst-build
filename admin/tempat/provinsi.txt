@@ -1,5 +1,5 @@
 1:HL["/_next/static/css/52249d4b3d79c281.css",{"as":"style"}]
-0:["ovdy-uCw_wREH-7XvmvF_",[[["",{"children":["admin",{"children":["tempat",{"children":["provinsi",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/52249d4b3d79c281.css","precedence":"next"}]],["$L3",null]]]]]
+0:["W9aChxhzAKbPPgxvU-BDD",[[["",{"children":["admin",{"children":["tempat",{"children":["provinsi",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/52249d4b3d79c281.css","precedence":"next"}]],["$L3",null]]]]]
 4:I{"id":7513,"chunks":["3185:static/chunks/app/layout-721e9d51b59801c5.js"],"name":"","async":false}
 5:I{"id":9180,"chunks":["2272:static/chunks/webpack-d65e07c1b842822e.js","9253:static/chunks/bce60fc1-12317074627e91f6.js","7698:static/chunks/7698-61f6ae5a93d37916.js"],"name":"default","async":false}
 6:I{"id":2306,"chunks":["2272:static/chunks/webpack-d65e07c1b842822e.js","9253:static/chunks/bce60fc1-12317074627e91f6.js","7698:static/chunks/7698-61f6ae5a93d37916.js"],"name":"default","async":false}
